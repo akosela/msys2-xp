@@ -17,3 +17,13 @@ The archive includes:
 
 This project specifically aims to compile Yamagi Quake II for Windows XP.  It
 includes all of the required dependencies.
+
+If you need additional packages that still work under this version of MSYS2
+you can take a look here:
+
+  [https://mirrors.huaweicloud.com/msys2](https://mirrors.huaweicloud.com/msys2)
+
+Download them to /msys2/var/cache/pacman/pkg and install with:
+```
+  $ pacman -U <package>.pkg.tar.xz
+```
