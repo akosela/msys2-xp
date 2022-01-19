@@ -9,6 +9,7 @@ msys32.zip includes everything you need to start compiling native Windows
 software using MinGW-w64.
 
 The archive includes:
+ * base MSYS2 environment
  * msys2_shell.bat
  * mingw32_shell.bat
  * mingw64_shell.bat
