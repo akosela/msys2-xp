@@ -18,6 +18,9 @@ The archive includes:
 This project specifically aims to compile Yamagi Quake II for Windows XP.  It
 includes all of the required dependencies.
 
+It also provides some other useful programs: mutt, irssi, tmux, git, ssh, lftp,
+curl/wget.
+
 If you need additional packages that still work under this version of MSYS2
 you can take a look here:
 
